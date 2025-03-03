@@ -1,4 +1,4 @@
-## Hi, I'm Lael!
+## Hi!
 
 # 💫 About Me:
 💻 Just a student who loves coding<br>
