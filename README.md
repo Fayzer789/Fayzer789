@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 💻 Just a student who loves coding<br>
-🏫 Studying [Computer Science](https://www.youtube.com/watch?v=f5Yzl25pZjY) at the University of Louvain-La-Neuve<br>
+🏫 Studying [Computer Science](https://www.youtube.com/watch?v=f5Yzl25pZjY)<br>
 💭 Currently studying python and html
 
 
